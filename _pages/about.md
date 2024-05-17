@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year PhD Candidate in Information Retrieval within the IRLab from the University of Amsterdam (UvA). After I graduated from my engineering school ENSIMAG, I started research in NLP/IR at Naver Labs Europe for two years, within the Search and Recommendation team. I then decided to join UvA to engage in a PhD and devote myself in full research. Supervisors: Prof. dr. [Evangelos Kanoulas](https://staff.fnwi.uva.nl/e.kanoulas/bio/) and dr. [Mohammad Aliannejadi](https://aliannejadi.com/).
+I am a first year PhD Candidate in Information Retrieval within the IRLab from the University of Amsterdam (UvA). After I graduated from my engineering school ENSIMAG, I started research in NLP/IR at Naver Labs Europe for two years, within the Search and Recommendation team. I then decided to join UvA to engage in a PhD and devote myself in full research. Supervisors: Prof. dr. [Evangelos Kanoulas](https://staff.fnwi.uva.nl/e.kanoulas/) and dr. [Mohammad Aliannejadi](https://aliannejadi.com/).
 
 Interested in information retrieval (IR), with a particular focus on 
 - conversational search,
