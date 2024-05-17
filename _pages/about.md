@@ -22,20 +22,34 @@ My curriculum vitae is available [here](https://SimonLupart.github.io/files/CV_S
 
 Publications
 ======
-
+I have several papers first/co-author published in proceedings, such as SIGIR, ICTIR, ECIR and AAAI.
+1. Guglielmo Faggioli, Thibault Formal, Simon Lupart, Stefano Marchesin, Stephane Clinchant, Nicola Ferro, Benjamin Piwowarski. **Towards Query Performance Prediction for Neural Information Retrieval: Challenges and Opportunities**. Long Paper at **ICTIR’23**.
+2. Hervé Déjean, Stephane Clinchant, Carlos Lassance, Simon Lupart, Thibault Formal. **Benchmarking Middle-Trained Language Models for Neural Search**. Short Paper at **SIGIR’23**.
+3. Carlos Lassance, Simon Lupart, Hervé Dejean, Stephane Clinchant, Nicola Tonellotto. **A Static Pruning Study on Sparse Neural Retrievers**. Short Paper at **SIGIR’23**.
+4. Simon Lupart, Thibault Formal, Stephane Clinchant. **MS-Shift: An Analysis of MS MARCO Distribution Shifts on Neural Retrieval**. Full Paper at **ECIR’23**.
+5. Simon Lupart, Stephane Clinchant. **A Study on FGSM Adversarial Training for Neural Retrieval**. Short Paper at **ECIR’23**.
+6. Simon Lupart, Benoit Favre, Vassilina Nikoulina, Salah Ait-Mokhtar. **Zero-Shot and Few-Shot Classification of Biomedical Articles in Context of the COVID-19 Pandemic**. Workshop paper **SDU@AAAI22**.
 
 Teaching & Supervision
 ======
-* Competition
-  - Part of the Organizers of TREC iKAT 2024
+* TREC Track Coordinators
+  - Part of the Organizers of [TREC iKAT 2024](https://www.trecikat.com/)
 * Teaching assistant: 
   - Information Retrieval 1, 2023-2024, University of Amsterdam; lab, grading and exam preparation
-  - Information Retrieval 2, 2023-2024, University of Amsterdam; project design and supervision of students
+  - Information Retrieval 2, 2023-2024, University of Amsterdam; project design and supervision
 
 Education
 ======
+* October 2023-Present   
+  - Ph.D. in Artificial Intelligence, University of Amsterdam (UvA), The Netherlands   
+  - Supervisors: [Evangelos Kanoulas](https://staff.fnwi.uva.nl/e.kanoulas/) and dr. [Mohammad Aliannejadi](https://aliannejadi.com/)
 
+* Sept. 2020 – April 2021    
+  - Erasmus Exchange, Imperial College London (Computing Dpt.), London, UK
+ 
+* Sept. 2018 – July 2021  
+  - Master of Engineering, ENSIMAG (Computing/Math Eng. School), Grenoble, France   
 
 Contact
 ======
-
+* Email: s.c.lupart AT uva.nl
