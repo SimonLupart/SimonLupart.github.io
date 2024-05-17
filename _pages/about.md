@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year PhD Candidate in Information Retrieval within the IRLab from the University of Amsterdam (UvA). After I graduated from my engineering school ENSIMAG, I started research in NLP/IR at Naver Labs Europe for two years, within the Search and Recommendation team. I then decided to join UvA to engage in a PhD and devote myself in full research. Supervisors: Prof. dr. [Evangelos Kanoulas](https://staff.fnwi.uva.nl/e.kanoulas/) and dr. [Mohammad Aliannejadi](https://aliannejadi.com/).
+I am a first-year PhD candidate in Information Retrieval at the IRLab, University of Amsterdam (UvA). After completing my Master's degree, I conducted research in Natural Language Processing and Information Retrieval at Naver Labs Europe for two years, where I was part of the Search and Recommendation team. I then joined UvA to pursue a PhD and dedicate myself fully to academic research. My doctoral studies are supervised by Prof. Dr. [Evangelos Kanoulas](https://staff.fnwi.uva.nl/e.kanoulas/) and Dr. [Mohammad Aliannejadi](https://aliannejadi.com/).
 
 Interested in information retrieval (IR), with a particular focus on 
 - conversational search,
@@ -52,4 +52,4 @@ Education
 
 Contact
 ======
-* Email: s.c.lupart AT uva.nl
+* Email: s.c.lupart@uva.nl
