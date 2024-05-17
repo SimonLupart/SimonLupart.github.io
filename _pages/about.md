@@ -17,7 +17,7 @@ Interested in information retrieval (IR), with a particular focus on
 
 My curriculum vitae is available [here](https://SimonLupart.github.io/files/CV_Simon_Lupart.pdf).   
 
-[[Google Scholar]](https://scholar.google.com/citations?user=gJQMnv8AAAAJ&hl=en) [[LinkedIn]](https://www.linkedin.com/in/simon-lupart/) [[Twitter]](https://twitter.com/simon-lupart)
+[[Google Scholar]](https://scholar.google.com/citations?user=gJQMnv8AAAAJ&hl=en) [[LinkedIn]](https://www.linkedin.com/in/simon_lupart/) [[Twitter]](https://twitter.com/simon-lupart)
 
 
 Publications
