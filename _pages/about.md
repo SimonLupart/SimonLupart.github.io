@@ -26,7 +26,7 @@ I have several papers first/co-author published in proceedings, such as SIGIR, I
 1. Guglielmo Faggioli, Thibault Formal, **Simon Lupart**, Stefano Marchesin, Stephane Clinchant, Nicola Ferro, Benjamin Piwowarski. **Towards Query Performance Prediction for Neural Information Retrieval: Challenges and Opportunities**. Long Paper at **ICTIR’23**. [[link]](https://dl.acm.org/doi/pdf/10.1145/3578337.3605142)
 2. Hervé Déjean, Stephane Clinchant, Carlos Lassance, **Simon Lupart**, Thibault Formal. **Benchmarking Middle-Trained Language Models for Neural Search**. Short Paper at **SIGIR’23**. [[link]](https://dl.acm.org/doi/pdf/10.1145/3539618.3591956)
 3. Carlos Lassance, **Simon Lupart**, Hervé Dejean, Stephane Clinchant, Nicola Tonellotto. **A Static Pruning Study on Sparse Neural Retrievers**. Short Paper at **SIGIR’23**. [[link]](https://dl.acm.org/doi/pdf/10.1145/3539618.3591941)
-4. Simon Lupart, Thibault Formal, Stephane Clinchant. **MS-Shift: An Analysis of MS MARCO Distribution Shifts on Neural Retrieval**. Full Paper at **ECIR’23**. [[link]](https://arxiv.org/pdf/2205.02870)
+4. **Simon Lupart**, Thibault Formal, Stephane Clinchant. **MS-Shift: An Analysis of MS MARCO Distribution Shifts on Neural Retrieval**. Full Paper at **ECIR’23**. [[link]](https://arxiv.org/pdf/2205.02870)
 5. **Simon Lupart**, Stephane Clinchant. **A Study on FGSM Adversarial Training for Neural Retrieval**. Short Paper at **ECIR’23**. [[link]](https://arxiv.org/pdf/2301.10576)
 6. **Simon Lupart**, Benoit Favre, Vassilina Nikoulina, Salah Ait-Mokhtar. **Zero-Shot and Few-Shot Classification of Biomedical Articles in Context of the COVID-19 Pandemic**. Workshop paper **SDU@AAAI22**. [[link]](https://arxiv.org/pdf/2201.03017)
 
