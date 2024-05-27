@@ -53,3 +53,5 @@ Education
 Contact
 ======
 * Email: s.c.lupart@uva.nl
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=U7sDAtZ-Gc9txp9FXtR_9aTt3s0QsAcWShXKgsGv4MY&cl=ffffff&w=a"></script>
