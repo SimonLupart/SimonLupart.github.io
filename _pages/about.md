@@ -34,6 +34,11 @@ Teaching & Supervision
 ======
 * TREC Track Coordinators
   - Part of the Organizers of [TREC iKAT 2024](https://www.trecikat.com/)
+    
+* Volunteer during the 15th European Summer School on Information Retrieval (ESSIR'24)
+  - Organization of the Hackathon - on the Conversational Search task
+  - Github repository ([essir24-convsearch](https://github.com/SimonLupart/essir24-convsearch/tree/main))
+    
 * Teaching assistant: 
   - Information Retrieval 1, 2023-2024, University of Amsterdam; lab, grading and exam preparation
   - Information Retrieval 2, 2023-2024, University of Amsterdam; project design and supervision
