@@ -58,7 +58,7 @@ The 45th European Conference on Information Retrieval \
 
 [AAAI 2022]) **Zero-Shot and Few-Shot Classification of Biomedical Articles in Context of the COVID-19 Pandemic** [[PDF]](https://arxiv.org/pdf/2201.03017) (_Workshop SDU@AAAI22_ \
 The 36th Annual AAAI Conference on Artificial Intelligence \
-**_Simon Lupart_**, Benoit Favre, Vassilina Nikoulina, Salah Ait-Mokhtar Workshop paper **SDU@AAAI22**. [[link]](https://arxiv.org/pdf/2201.03017)
+**_Simon Lupart_**, Benoit Favre, Vassilina Nikoulina, Salah Ait-Mokhtar
 
 ### 📖 Teaching
 * Teaching assistant: University of Amsterdam Master Course. Information Retrieval 1. In academic years 2023-2024 and 2024-2025; lab, grading, exam preparation and guest lecture.
