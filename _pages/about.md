@@ -7,17 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD candidate in Information Retrieval at the IRLab, University of Amsterdam (UvA). After completing my Master's degree, I conducted research in Natural Language Processing and Information Retrieval at Naver Labs Europe for two years, where I was part of the Search and Recommendation team. I then joined UvA to pursue a PhD and dedicate myself fully to academic research. My doctoral studies are supervised by Prof. Dr. [Evangelos Kanoulas](https://staff.fnwi.uva.nl/e.kanoulas/) and Dr. [Mohammad Aliannejadi](https://aliannejadi.com/).
+I am a second-year PhD candidate in Information Retrieval (IR) at the University of Amsterdam (IRLab), working with Prof. Dr. [Evangelos Kanoulas](https://staff.fnwi.uva.nl/e.kanoulas/) and Dr. [Mohammad Aliannejadi](https://aliannejadi.com/). I worked previously for two years in NLP and IR at Naver Labs Europe, in the Search and Recommendation Team. I received my Master from Grenoble INP Ensimag after a 6-month Erasmus at the Imperial College London.
 
-Interested in information retrieval (IR), with a particular focus on 
-- conversational search,
-- distributions shifts,
-- adversarial training, 
-- large language models (LLMs).
+My research mainly focuses on IR and conversational AI, working on distribution shifts, adversarial training, Large Language Models (LLMs) and Retrieval Augmented Generation (RAG). 
 
-My curriculum vitae is available [here](https://SimonLupart.github.io/files/CV_Simon_Lupart.pdf).   
-
-[[Google Scholar]](https://scholar.google.com/citations?user=gJQMnv8AAAAJ&hl=en) [[LinkedIn]](https://www.linkedin.com/in/simon_lupart/) [[Twitter]](https://twitter.com/simon-lupart)
+[[Google Scholar]](https://scholar.google.com/citations?user=gJQMnv8AAAAJ&hl=en) [[LinkedIn]](https://www.linkedin.com/in/simon_lupart/) [[Twitter]](https://twitter.com/simon-lupart) [[CV]](https://SimonLupart.github.io/files/CV_Simon_Lupart.pdf)
 
 
 Publications
