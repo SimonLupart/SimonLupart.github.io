@@ -12,8 +12,8 @@ I am a second-year PhD candidate in Information Retrieval (IR) at the University
 My research mainly focuses on IR and conversational AI, working on distribution shifts, adversarial training, Large Language Models (LLMs) and Retrieval Augmented Generation (RAG). [[Google Scholar]](https://scholar.google.com/citations?user=gJQMnv8AAAAJ&hl=en) [[LinkedIn]](https://www.linkedin.com/in/simon_lupart/) [[Twitter]](https://twitter.com/simon-lupart) [[CV]](https://SimonLupart.github.io/files/CV_Simon_Lupart.pdf)
 
 ### 🔥 News
-* *_Apr. 2025_*: 🎉🎉 Four papers are accepted at the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025).
-* *_Oct. 2024_*: 🎉🎉 TREC iKAT 2024 Best performing team.
+* _Apr. 2025_: 🎉🎉 Four papers are accepted at the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025).
+* _Oct. 2024_: 🎉🎉 TREC iKAT 2024 Best performing team.
 
 ### 📝 Publications
 [SIGIR 2025] **DiSCo Meets LLMs: A Unified Approach for Sparse Retrieval and Contextual Distillation in Conversational Search** [[PDF]](https://arxiv.org/abs/2410.14609) (_Full Paper_) \
