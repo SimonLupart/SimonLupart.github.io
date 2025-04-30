@@ -12,8 +12,8 @@ I am a second-year PhD candidate in Information Retrieval (IR) at the University
 My research mainly focuses on IR and conversational AI, working on distribution shifts, adversarial training, Large Language Models (LLMs) and Retrieval Augmented Generation (RAG). [[Google Scholar]](https://scholar.google.com/citations?user=gJQMnv8AAAAJ&hl=en) [[LinkedIn]](https://www.linkedin.com/in/simon_lupart/) [[Twitter]](https://twitter.com/simon-lupart) [[CV]](https://SimonLupart.github.io/files/CV_Simon_Lupart.pdf)
 
 ### 🔥 News
-* _Apr. 2025_: 🎉🎉 Four papers are accepted at the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025).
-* _Oct. 2024_: 🎉🎉 TREC iKAT 2024 Best performing team.
+* *Apr. 2025*: 🎉🎉 Four papers are accepted at the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025).
+* *Oct. 2024*: 🎉🎉 TREC iKAT 2024 Best performing team.
 
 ### 📝 Publications
 [SIGIR 2025] **DiSCo Meets LLMs: A Unified Approach for Sparse Retrieval and Contextual Distillation in Conversational Search** [[PDF]](https://arxiv.org/abs/2410.14609) (_Full Paper_) \
@@ -56,7 +56,7 @@ The 45th European Conference on Information Retrieval \
 The 45th European Conference on Information Retrieval \
 **_Simon Lupart_**, Stephane Clinchant
 
-[AAAI 2022]) **Zero-Shot and Few-Shot Classification of Biomedical Articles in Context of the COVID-19 Pandemic** [[PDF]](https://arxiv.org/pdf/2201.03017) (_Workshop SDU@AAAI22_ \
+[AAAI 2022] **Zero-Shot and Few-Shot Classification of Biomedical Articles in Context of the COVID-19 Pandemic** [[PDF]](https://arxiv.org/pdf/2201.03017) (_Workshop SDU@AAAI22_) \
 The 36th Annual AAAI Conference on Artificial Intelligence \
 **_Simon Lupart_**, Benoit Favre, Vassilina Nikoulina, Salah Ait-Mokhtar
 
@@ -68,9 +68,9 @@ The 36th Annual AAAI Conference on Artificial Intelligence \
 * *Nov. 2021-Jun. 2023*, Naver Labs Europe
 
 ### 📖 Education
-* October 2023 - Present, Ph.D. in Artificial Intelligence, University of Amsterdam (UvA), The Netherlands   
-* Sept. 2020 – April 2021, Erasmus Exchange, Imperial College London (Computing Dpt.), London, UK
-* Sept. 2018 – July 2021, Master of Engineering, ENSIMAG (Computing/Math Eng. School), Grenoble, France   
+* *October 2023 - Present*, Ph.D. in Artificial Intelligence, University of Amsterdam (UvA), The Netherlands   
+* *Sept. 2020 – April 2021*, Erasmus Exchange, Imperial College London (Computing Dpt.), London, UK
+* *Sept. 2018 – July 2021*, Master of Engineering, ENSIMAG (Computing/Math Eng. School), Grenoble, France   
 
 ### 📖 Academic Service
 - *Reviewer*: SIGIR 2025
