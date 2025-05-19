@@ -16,19 +16,19 @@ My research mainly focuses on IR and conversational AI, working on distribution 
 * *Oct. 2024*: 🎉🎉 TREC iKAT 2024 Best performing team.
 
 ### 📝 Publications
-[SIGIR 2025] **DiSCo Meets LLMs: A Unified Approach for Sparse Retrieval and Contextual Distillation in Conversational Search** [[PDF]](https://arxiv.org/abs/2410.14609) (_Full Paper_) \
+[SIGIR 2025] **DiSCo: LLM Knowledge Distillation for Efficient Sparse Retrieval in Conversational Search** [[PDF]](https://arxiv.org/abs/2410.14609) [[code]](https://github.com/SimonLupart/disco-conv-splade) (_Full Paper_) \
 The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval \
 **_Simon Lupart_**, Mohammad Aliannejadi, Evangelos Kanoulas
 
-[SIGIR 2025] **Conversational Gold: Evaluating Personalized Conversational Search System using Gold Nuggets** [[PDF]](https://arxiv.org/abs/2503.09902) (_Resource Paper_) \
+[SIGIR 2025] **Conversational Gold: Evaluating Personalized Conversational Search System using Gold Nuggets** [[PDF]](https://arxiv.org/abs/2503.09902) [[code]](https://github.com/irlabamsterdam/cone-rag) (_Resource Paper_) \
 The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval \
 Zahra Abbasiantaeb, **_Simon Lupart (equal contribution)_**, Leif Azzopardi, Jeffrey Dalton, Mohammad Aliannejadi
 
-[SIGIR 2025] **Unsupervised Corpus Poisoning Attacks in Continuous Space for Dense Retrieval** [[PDF]](https://arxiv.org/abs/2504.17884) (_Full Paper_) \
+[SIGIR 2025] **Unsupervised Corpus Poisoning Attacks in Continuous Space for Dense Retrieval** [[PDF]](https://arxiv.org/abs/2504.17884) [[code]](https://github.com/liyongkang123/unsupervised_corpus_poisoning) (_Full Paper_) \
 The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval \
 Yongkang Li, Panagiotis Eustratiadis, **_Simon Lupart_**, Evangelos Kanoulas
 
-[SIGIR 2025] **Reproducing NevIR: Negation in Neural Information Retrieval** [[PDF]](https://arxiv.org/abs/2502.13506) (_Reproducibility Paper_) \
+[SIGIR 2025] **Reproducing NevIR: Negation in Neural Information Retrieval** [[PDF]](https://arxiv.org/abs/2502.13506) [[code]](https://github.com/thijmennijdam/NevIR-reproducibility) (_Reproducibility Paper_) \
 The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval \
 Coen van den Elsen, Francien Barkhof, Thijmen Nijdam, **_Simon Lupart_**, Mohammad Aliannejadi
 
