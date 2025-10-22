@@ -7,15 +7,25 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD candidate in Information Retrieval (IR) at the University of Amsterdam (IRLab), working with Prof. Dr. [Evangelos Kanoulas](https://staff.fnwi.uva.nl/e.kanoulas/) and Dr. [Mohammad Aliannejadi](https://aliannejadi.com/). I worked previously for two years in NLP and IR at Naver Labs Europe, in the Search and Recommendation Team. I received my Master from Grenoble INP Ensimag after a 6-month Erasmus at the Imperial College London.
+I am a third-year PhD candidate in Information Retrieval (IR) at the University of Amsterdam (IRLab), working with Prof. Dr. [Evangelos Kanoulas](https://staff.fnwi.uva.nl/e.kanoulas/) and Dr. [Mohammad Aliannejadi](https://aliannejadi.com/). I worked previously for two years in NLP and IR at Naver Labs Europe, in the Search and Recommendation Team. I received my Master from Grenoble INP Ensimag after an Erasmus Exchange at the Imperial College London.
 
-My research mainly focuses on IR and conversational AI, working on distribution shifts, adversarial training, Large Language Models (LLMs) and Retrieval Augmented Generation (RAG). [[Google Scholar]](https://scholar.google.com/citations?user=gJQMnv8AAAAJ&hl=en) [[LinkedIn]](https://www.linkedin.com/in/simon_lupart/) [[Twitter]](https://twitter.com/simon-lupart) [[CV]](https://SimonLupart.github.io/files/CV_Simon_Lupart.pdf)
+My research mainly focuses on IR and conversational AI, working on Large Language Models, Retrieval Augmented Generation (RAG), and Reinforcement Learning (RL) for Agentic AI. [[Google Scholar]](https://scholar.google.com/citations?user=gJQMnv8AAAAJ&hl=en) [[LinkedIn]](https://www.linkedin.com/in/simon_lupart/) [[Twitter]](https://twitter.com/simon-lupart) [[CV]](https://SimonLupart.github.io/files/CV_Simon_Lupart.pdf)
 
 ### 🔥 News
+* *Oct. 2025*: 🎉🎉 New preprint ChatR1.
+* *Sep. 2025*: 🎉🎉 Accepted paper at the 3rd International ACM SIGIR Conference on Information Retrieval in the Asia Pacific (SIGIR-AP 2025).
+* *Aug. 2025*: 🎉🎉 Organization of the TREC iKAT 2025 shared task.
 * *Apr. 2025*: 🎉🎉 Four papers are accepted at the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025).
-* *Oct. 2024*: 🎉🎉 TREC iKAT 2024 Best performing team.
 
 ### 📝 Publications
+[Preprint] **ChatR1: Reinforcement Learning for Conversational Reasoning and Retrieval Augmented Question Answering** [[PDF]](https://arxiv.org/abs/2510.13312) \
+ArXiv Preprint \
+**_Simon Lupart_**, Mohammad Aliannejadi, Evangelos Kanoulas
+
+[SIGIR-AP 2025] **Investigating LLM Variability in Personalized Conversational Information Retrieval** [[PDF]](https://arxiv.org/abs/2510.03795) [[code]](https://github.com/EricLangezaal/PersonalizedCIR) (_Full Paper_) \
+The 3rd International ACM SIGIR Conference on Information Retrieval in the Asia Pacific \
+**_Simon Lupart_**, Daniël van Dijk*, Eric Langezaal*, Ian van Dort*, Mohammad Aliannejadi
+
 [SIGIR 2025] **DiSCo: LLM Knowledge Distillation for Efficient Sparse Retrieval in Conversational Search** [[PDF]](https://arxiv.org/abs/2410.14609) [[code]](https://github.com/SimonLupart/disco-conv-splade) (_Full Paper_) \
 The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval \
 **_Simon Lupart_**, Mohammad Aliannejadi, Evangelos Kanoulas
@@ -65,7 +75,8 @@ The 36th Annual AAAI Conference on Artificial Intelligence \
 * University of Amsterdam Master Course. Information Retrieval 2. In academic years 2023-2024 and 2024-2025; project design and supervision
 
 ### 📖 Industry Research Work
-* *Nov. 2021-Jun. 2023*, Naver Labs Europe
+* **Research Intern** at Naver Labs Europe. *Nov. 2025 - Feb. 2026* (4 months) 
+* **Research Scientist** at Naver Labs Europe. *Nov. 2021 - Jun. 2023* (18 months) 
 
 ### 📖 Education
 * *October 2023 - Present*, Ph.D. in Artificial Intelligence, University of Amsterdam (UvA), The Netherlands   
